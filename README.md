@@ -20,7 +20,7 @@ NumPy (Numerical Python) is a fundamental library in Python for scientific compu
 
 ## Getting Started
 
-To use NumPy, you need to have it installed. You can install NumPy via pip:
+To use NumPy, you need to have it installed. You can install NumPy via pip: 
 
 ```bash
 pip install numpy
